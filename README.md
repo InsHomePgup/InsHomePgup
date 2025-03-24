@@ -11,9 +11,9 @@ I'm a passionate **Frontend Engineer** who enjoys crafting beautiful and efficie
 
 ## 🛠️ Tech Stack
 - **Languages:** TypeScript, JavaScript, HTML, CSS
-- **Frameworks:** Vue.js, Node.js
-- **Tools & IDE:** WebStorm, Git, VsCode
-- **Others:** REST APIs, GraphQL, Web Performance Optimization
+- **Frameworks:** Vue.js, Node.js,TypeORM,MidwayJs,Hugo
+- **Tools & IDE:** WebStorm, Git, VsCode, Trae
+- **Others:** REST APIs, Web Performance Optimization
 
 ## 📬 Get in Touch
 - ✉️ Email: [BlueWhaleDesigner@outlook.com](mailto:BlueWhaleDesigner@outlook.com)
