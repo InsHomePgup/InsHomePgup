@@ -10,8 +10,7 @@ I'm a passionate **Frontend Engineer** who enjoys crafting beautiful and efficie
 - 🌱 Currently exploring **React, Nuxt, Next, and AI applications**
 
 ## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, HTML, CSS
-- **Frameworks:** Vue.js, Node.js,TypeORM,MidwayJs,Hugo
+- **Frameworks:** Unocss, Tailwindcss, Vue.js, Node.js,TypeORM,Midway.js,Hugo
 - **Tools & IDE:** WebStorm, Git, VsCode, Trae
 - **Others:** REST APIs, Web Performance Optimization
 
