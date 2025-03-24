@@ -7,7 +7,7 @@ I'm a passionate **Frontend Engineer** who enjoys crafting beautiful and efficie
 - 🔥 Experienced with **Vue** and **Node.js**
 - 🛠️ I use **WebStorm** as my primary IDE
 - 📖 Love **reading, writing, and tinkering with PCs**
-- 🌱 Always learning and exploring new technologies
+- 🌱 Currently exploring **React, Nuxt, Next, and AI applications**
 
 ## 🛠️ Tech Stack
 - **Languages:** TypeScript, JavaScript, HTML, CSS
