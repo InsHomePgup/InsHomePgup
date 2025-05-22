@@ -22,6 +22,7 @@
 	me = merge
 	pl = pull
 	ps = push
+	pst = push --follow-tags
 	sb = submodule
 	ss = status
 	sw = switch
