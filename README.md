@@ -3,7 +3,7 @@
 I'm a passionate **Frontend Engineer** who enjoys crafting beautiful and efficient web applications.
 
 ## 🚀 About Me
-- 💻 I specialize in **HTML, CSS, TypeScript**
+- 💻 I specialize in **HTML, CSS, JavaScript, TypeScript**
 - 🔥 Experienced with **Vue** and **Node.js**
 - 🛠️ I use **WebStorm** as my primary IDE
 - 📖 Love **reading, writing, and tinkering with PCs**
@@ -11,7 +11,8 @@ I'm a passionate **Frontend Engineer** who enjoys crafting beautiful and efficie
 
 ## 🛠️ Tech Stack
 - **Frameworks:** Unocss, Tailwindcss, Vue.js, Node.js,TypeORM,Midway.js,Hugo
-- **Tools & IDE:** WebStorm, Git, VsCode, Trae
+- **Tools & IDE:** WebStorm, Git, VsCode
+- **AI Coding Tools:** Claude Code, Codex, Gemini-cli
 - **Others:** REST APIs, Web Performance Optimization
 
 ## 📬 Get in Touch
