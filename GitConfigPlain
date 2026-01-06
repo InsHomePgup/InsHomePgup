@@ -1,0 +1,39 @@
+[core]
+	ignorecase = false
+	quotepath = false
+[user]
+	email = 47906083+InsHomePgup@users.noreply.github.com
+	name = InsHomePgup
+[alias]
+	ad = add
+	br = branch
+	brc = branch --show-current
+	cc = checkout --
+	cf = config
+	ck = checkout
+	cm = commit
+	cl = clone
+	cp = !git add -A && git commit -m \"update\" && git push
+	cpm = "!f() { git add -A && git commit -m \"$1\" && git push; }; f"
+	df = diff
+	fe = fetch
+	me = merge
+	pl = pull
+	ps = push
+	pst = push --follow-tags
+	sb = submodule
+	ss = status
+	sw = switch
+	re = remote
+	unstage = reset HEAD
+	last = log -1
+[init]
+	defaultBranch = main
+[push]
+	followTags = true
+[fetch]
+	prune = true
+[pull]
+	rebase = false
+[merge]
+	conflictstyle = diff3
