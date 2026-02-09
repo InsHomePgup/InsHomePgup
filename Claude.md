@@ -1,12 +1,12 @@
 # CLAUDE.md
 
 ## Git
-- No auto-commit, concise messages
+- **🚫 NEVER EVER auto-commit code**
+  - User MUST review code before commit
+  - ONLY commit when user explicitly says "提交代码" or "commit"
+  - NEVER commit automatically after completing tasks
 - No AI traces in commit messages (no emojis, no "Generated with Claude Code", no "Co-Authored-By")
-
-## API
-- URLs in top-level `Api` object
-- Prefer `.then()`, use async/await for multiple promises
+- Simple commit format: `<type>: <brief description>` (single line, no bullet points or detailed explanation)
 
 ## Vue
 - ❌ Don't add comments
