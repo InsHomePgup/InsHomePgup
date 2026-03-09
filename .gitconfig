@@ -14,7 +14,7 @@
 	cm = commit
 	cl = clone
 	cp = !git add -A && git commit -m \"update\" && git push
-	cpm = "!f() { git add -A && git commit -m \"$1\" && git push; }; f"
+	cpm = "!f() { git add -A && git commit -m \"$*\" && git push; }; f"
 	df = diff
 	fe = fetch
 	me = merge
