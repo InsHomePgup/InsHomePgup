@@ -2,3 +2,11 @@ Host github.com
 HostName github.com
 User git
 IdentityFile ~/.ssh/Key
+
+Host 1.1.1.1
+HostName 1.1.1.1
+User user
+IdentityFile ~/.ssh/ed25519_pwd
+AddKeysToAgent no # 每次都要输入密码
+ServerAliveInterval 60   # 每60秒客户端向服务器发送一个保活包
+TCPKeepAlive yes          # 保持TCP连接活跃
