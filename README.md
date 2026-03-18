@@ -17,6 +17,6 @@ I'm a passionate **Frontend Engineer** who enjoys crafting beautiful and efficie
 
 ## 📬 Get in Touch
 - ✉️ Email: [BlueWhaleDesigner@outlook.com](mailto:BlueWhaleDesigner@outlook.com)
-- 📝 Blog: [https://inshomepgup.github.io/blog-hugo-stack/](https://inshomepgup.github.io/blog-hugo-stack/)
+- 📝 Blog: [https://blog.inshomepgup.com/](https://blog.inshomepgup.com/)
 
 Let's connect and build something amazing! 🚀
